@@ -18,4 +18,10 @@ Build a Java program that can **Add**, **View**, **Update**, and **Delete** stud
 - ✅ Delete a student by ID 
 
 ---
+## 🧱 Project Structure
+
+- `Student`: A POJO class with fields `id`, `name`, and `marks`.
+- `StudentRecord`: Contains the `main()` method, menu system, and all CRUD operations.
+
+---
 
